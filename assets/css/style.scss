@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
-.sprale-header {
-    background-image: linear-gradient(120deg, #9c159c, #159957);
+.sprale-body {
+.page-header {
+    background-color: #8626BC;
+    background-image: none;
+}
+
+h1, h2, h3 {
+    color: #8626BC;
+}
 }
