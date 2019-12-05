@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-> _Sprale originated from two German words - sprache and Lernen.
-
-Sprache means Language and Lernen means Learn_
+> Sprale originated from two German words - sprache and Lernen.
+> Sprache means Language and Lernen means Learn
 
 ## Little bit about Reading..
 
