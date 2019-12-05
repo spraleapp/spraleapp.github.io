@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+> _Sprale originated from two German words - sprache and Lernen.
+
+Sprache means Language and Lernen means Learn_
 
 ## Little bit about Reading..
 
@@ -17,8 +20,5 @@ Sprale is an iOS app help you to explore 100's of online reading sites and keep 
 Periodically, you will learn the word and you will never need to look-up the word again.
 This is a small experimental initiative to help the people out there who need help from technology. It is absalutely free and we don't track who read what content or look-up words.
 We respect your privacy.
-
-> _Sprale originated from two German words - sprache and Lernen
-Sprache means Language and Lernen means Learn_
 
 
