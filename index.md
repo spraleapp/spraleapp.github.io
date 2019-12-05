@@ -1,3 +1,8 @@
+
+---
+layout: default
+---
+
 # Little bit about Reading..
 
 Learning english is not always easy. When we moved to the world of digital and mobile, we tend to forget the old good habits - **Reading**. We all know that people around us, they are very good at english vocabulary. We are not sure if you ever noticed, there should be one thing common among them reading habbit.
