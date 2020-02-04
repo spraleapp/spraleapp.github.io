@@ -2,22 +2,64 @@
 layout: default
 published: true
 ---
-> Sprale originated from two German words - sprache and Lernen.
-> Sprache means Language and Lernen means Learn
+## Privacy Policy
 
-## Little bit about Reading..
+Sprale app is a Free app. This SERVICE is provided by SpraleApp(Sprale) at no cost and is intended for use as is.
 
-Learning English is not always easy. When we moved to the world of digital and mobile, we tend to forget the old good habits - **Reading**. We all know that people around us, they are very good at English vocabulary. Not sure if you ever noticed, there is one thing common among them - reading habit, it can be books, blogs, news - But reading is important.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Most of the time we forget about the new word we learn from an article or news. Next time it is a bit confusing, aw…I know this word..but I can't remember anymore. right? how do I fix this problem?
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-We are in the era of busy life, most of us won't get enough time to read, but what if we can utilise our tiny free period for reading and improve vocabulary with the help of technology. That is where **[Sprale](apple.com)** comes. A small initiative to motivate reading and improve your vocabulary.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SpraleApp unless otherwise defined in this Privacy Policy.
 
-## What is Sprale
+**Information Collection and Use**
 
-**Sprale** is an iOS app which helps us to explore 100’s of online reading sites and keep track of your mystery words you look-up every time in your reading sites. You will have your dictionary setup by in Sprale, where you can see all the words your already look-up. It will also tell you some more information about the words. This will help you to understand the list of your difficult words and Sprale engine will help you to remind these words, even if you forget.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-Periodically, you will learn the word and you will never need to look-up the word again.
-This is a small experimental initiative to help the people out there who need help from technology. It is free and we don't track who read what content or look-up words - we respect your privacy.
+The app does use third party services that may collect information used to identify you.
 
-**_Start reading and build your vocabulary._**
+Link to privacy policy of third party service providers used by the app
+
+-   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+-   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+
+**Log Data**
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+**Service Providers**
+
+I may employ third-party companies and individuals due to the following reasons:
+
+-   To facilitate our Service;
+-   To provide the Service on our behalf;
+-   To perform Service-related services; or
+-   To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at spraleapp@gmail.com.
