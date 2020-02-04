@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: policy
 published: true
 ---
 ## Privacy Policy
