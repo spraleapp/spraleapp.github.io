@@ -1,65 +1,73 @@
 ---
-layout: default
-published: true
+layout: page
+title: Privacy Policy
+description: How the Sprale iOS app handles your information.
 ---
-## Privacy Policy
 
-Sprale app is a Free app. This SERVICE is provided by SpraleApp(Sprale) at no cost and is intended for use as is.
+<p class="eyebrow">Sprale</p>
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+# Privacy Policy
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+<p class="updated">Last updated: 22 October 2026</p>
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SpraleApp unless otherwise defined in this Privacy Policy.
+This policy explains what information the Sprale iOS app ("Sprale", "the app", "we") uses, why, and the choices you have. Sprale is built to help you read and grow your vocabulary, and it collects only what it needs to do that.
 
-**Information Collection and Use**
+<div class="summary" markdown="1">
+**In short**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+- You don't create an account. There's no name, email or password.
+- Word definitions come from the dictionary built into your iPhone.
+- Your dictionary words, bookmarks and reading progress are stored securely with Google Firebase, linked to an anonymous ID, so they're kept between sessions.
+- We don't sell your data, show ads, or use third-party analytics or tracking.
+</div>
 
-The app does use third party services that may collect information used to identify you.
+## Information the app uses
 
-Link to privacy policy of third party service providers used by the app
+**Anonymous identifier.** When you first open Sprale, it signs you in anonymously with Firebase Authentication. This creates a random user ID that isn't tied to your name, email or phone number. It's used only to keep your data separate from everyone else's.
 
--   [Firebase Analytics](https://firebase.google.com/policies/analytics)
--   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+**Your reading data.** To make your dictionary, bookmarks and library work, the app stores the following against your anonymous ID:
 
-**Log Data**
+- Words you look up or save, the sentence they appeared in, and the title of the reading they came from
+- Readings you bookmark
+- Your reading progress, such as which readings you completed, whether you marked them "Feel Confident" or needed help, how many words you looked up, and when
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+**Dictionary lookups.** Definitions are shown using the dictionaries built into iOS. The app doesn't send the words you tap to a third-party dictionary service.
 
-**Cookies**
+**Technical data.** Like any internet service, Firebase may process technical information such as your IP address and device or app version when the app connects, in order to deliver the service and keep it secure.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## How we use it
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We use this information only to provide the app's features: showing today's reading, keeping your dictionary and bookmarks, marking readings where you needed help, and keeping the service running reliably. We don't use it for advertising, and we don't sell or rent it to anyone.
 
-**Service Providers**
+## Service providers
 
-I may employ third-party companies and individuals due to the following reasons:
+Sprale uses Google Firebase (Firebase Authentication and Cloud Firestore) to authenticate the anonymous ID and store your reading data. Google processes this data on our behalf under its own terms:
 
--   To facilitate our Service;
--   To provide the Service on our behalf;
--   To perform Service-related services; or
--   To assist us in analyzing how our Service is used.
+- [Firebase privacy and security](https://firebase.google.com/support/privacy)
+- [Google Privacy Policy](https://policies.google.com/privacy)
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## Data retention and deletion
 
-**Security**
+Your data is kept for as long as you use the app. You can remove individual words from your dictionary and clear highlights at any time in the app. Because your data is linked to an anonymous ID rather than an account, deleting the app means the app can no longer access that data.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+To have all data associated with your copy of Sprale deleted, email us at [spraleapp@gmail.com](mailto:spraleapp@gmail.com) and we'll help you.
 
-**Links to Other Sites**
+## Security
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Data is sent to Firebase over encrypted connections and stored on Google's infrastructure. No method of transmission or storage is completely secure, but we take reasonable measures to protect your information.
 
-**Children’s Privacy**
+## Links to other sites
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Readings or this website may contain links to other sites. We don't control those sites and aren't responsible for their content or privacy practices, so please review their policies.
 
-**Changes to This Privacy Policy**
+## Children's privacy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Sprale isn't directed at children under 13, and we don't knowingly collect personal information from them. If you believe a child has provided us personal information, please contact us and we'll delete it.
 
-**Contact Us**
+## Changes to this policy
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at spraleapp@gmail.com.
+We may update this policy from time to time. Changes are posted on this page with a new "Last updated" date, and take effect when posted.
+
+## Contact us
+
+Questions or suggestions about this policy? Email [spraleapp@gmail.com](mailto:spraleapp@gmail.com).

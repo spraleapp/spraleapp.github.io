@@ -1,3 +1,13 @@
 title: Sprale
-description: Build vocabulary with Sprale App.
-theme: jekyll-theme-cayman
+tagline: One paragraph. Every day.
+description: A calm daily read that quietly grows your vocabulary. Tap any word to see its meaning, and Sprale builds your dictionary as you read.
+lang: en
+url: https://spraleapp.github.io
+contact_email: spraleapp@gmail.com
+app_store_url: https://apps.apple.com/us/app/sprale/id1487943646
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
